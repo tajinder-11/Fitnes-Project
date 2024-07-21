@@ -1,0 +1,9 @@
+[
+    {
+        "login": "Login",
+        "emailLabel": "Email",
+        "passwordLabel": "Password",
+        "googleLoginText": "Login With Google"
+    }
+    
+]

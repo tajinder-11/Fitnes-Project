@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoListApp</string>
+    <string name="expo_splash_screen_resize_mode">cover</string>
+    <string name="facebook_app_id">1217158999251277</string>
+<string name="fb_login_protocol_scheme">fb1234</string>
+<string name="facebook_client_token">05fee1c389ccc51bd491dc6b42e07470</string>
+</resources>
